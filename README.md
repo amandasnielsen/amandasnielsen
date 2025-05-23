@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVzY3JwZnY0OGNuZ2l5eHpsa3V1MGRjcW5jdHVmajY0NHgxaG40dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
-</div>
+<p align="left">My name is Amanda and I'm soon a frontend-developer from Östersund, north of Sweden ⛰</p>
 
 ###
 
-<p align="left">My name is Amanda and I'm soon a frontend-developer from Östersund, north of Sweden ⛰</p>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVzY3JwZnY0OGNuZ2l5eHpsa3V1MGRjcW5jdHVmajY0NHgxaG40dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+</div>
 
 ###
 
