@@ -1,21 +1,14 @@
 ## Hi there 👋
 <p align="left">My name is Amanda and I'm a frontend developer from Östersund, north of Sweden ⛰</p>
 
-##
-<h2 align="left">About me</h2>
-
-##
 <p align="left">
 ✨ Creating bugs since 2024<br>
 🤖 Currently exploring AI integrations and expanding my design-skills<br>
-🎯 Goals: being awesome at design and creating cool websites<br>
-🌐 Portfolio: <a href="https://amandasn.com">amandasn.com</a>
+🌐 <a href="https://amandasn.com">amandasn.com</a>
 </p>
 
-##
 <h2 align="left">I code with</h2>
 
-##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" height="40" alt="html logo" />
   <img width="12" />
@@ -34,6 +27,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="openai logo" />
 </div>
