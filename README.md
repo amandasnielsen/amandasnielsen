@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left">My name is Amanda and I'm soon a frontend-developer from Östersund, north of Sweden ⛰</p>
+<p align="left">My name is Amanda and I'm a frontend-developer from Östersund, north of Sweden ⛰</p>
 
 ###
 
